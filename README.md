@@ -1,4 +1,4 @@
-# Porject 3
+FordGoBike
 This project involves the analysis of the Ford GoBike dataset, which contains data related to bike-sharing trips in a major metropolitan area. Bike-sharing systems like Ford GoBike provide a sustainable and efficient mode of urban transportation. The dataset includes information about trip duration, user demographics, bike types, and more. By exploring this data, we aim to gain insights into bike-sharing trends and usage patterns.
 
 Data Description
